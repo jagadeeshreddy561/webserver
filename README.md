@@ -54,6 +54,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![](severside.png)
+![](clientside.png)
+
 
 ## RESULT:
 The program is executed succesfully
